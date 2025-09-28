@@ -7,3 +7,7 @@ Key Features:
 - Custom Game & Bakkesmod Path selector
 - Start Delay (set a delay between the start of BakkesMod and Rocket League)
 - Simple GUI
+- Open BakkesMod Folder Button (version 2.0+)
+- Open Bakkesplugin.com Button (version 2.0+)
+- Auto Run BakkesMod + RocketLeague after opening Launcher option (version 2.0+)
+- NEON GUI only on Release Version 2.0 NEON
