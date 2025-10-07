@@ -10,5 +10,6 @@ Key Features:
 - Open BakkesMod Folder Button (version 2.0+)
 - Open Bakkesplugin.com Button (version 2.0+)
 - Auto Run BakkesMod + RocketLeague after opening Launcher option (version 2.0+)
-- NEON GUI only on Release Version 2.0 NEON
-- Sidebar GUI only on Release Version 2.0 Sidebar
+- Discord RPC
+- Multi Themes
+- and more
