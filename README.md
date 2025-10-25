@@ -1,15 +1,13 @@
 # bakkesRL_launcher
-a simple Program that starts Rocket League and BakkesMod with one click
-#
-#
-#
-Key Features:
-- Custom Game & Bakkesmod Path selector
-- Start Delay (set a delay between the start of BakkesMod and Rocket League)
-- Simple GUI
-- Open BakkesMod Folder Button (version 2.0+)
-- Open Bakkesplugin.com Button (version 2.0+)
-- Auto Run BakkesMod + RocketLeague after opening Launcher option (version 2.0+)
-- Discord RPC
-- Multi Themes
-- and more
+
+BakkesRL is a modern launcher designed to seamlessly start BakkesMod alongside Rocket League. With an intuitive interface, customizable themes, and smart startup features, it simplifies the process of managing mods and ensures a smooth gaming experience. Whether you're a casual player or a competitive enthusiast, BakkesRL helps you get into the game faster and with ease.
+
+Features:
+
+Launch Rocket League with BakkesMod in one click
+
+Theme customization and UI personalization
+
+Plugin management and smart startup options
+
+Lightweight and easy to use
